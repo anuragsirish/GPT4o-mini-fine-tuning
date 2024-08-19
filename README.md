@@ -6,6 +6,8 @@
 
 This repository contains a Jupyter Notebook that demonstrates the process of fine-tuning a machine learning model for a real estate use case. The model is designed to assist real estate agents in efficiently searching for property information, providing concise and relevant responses to their queries.
 
+Reference : https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Fine%20Tuning/Fine%20Tuning%20model.ipynb
+
 ### Features
 
 - **Data Preparation:** Learn how to structure your training and validation datasets in JSONL format.
