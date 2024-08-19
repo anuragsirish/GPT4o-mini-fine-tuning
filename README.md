@@ -1,7 +1,7 @@
 
 # Real Estate Use Case: Fine-Tuning a Machine Learning Model
 
-![Fine-Tuning in Action](./images/A_detailed_illustration_of_a_data_scientist_workin.png)
+![Fine-Tuning in Action](./images/house.png)
 
 ## Overview
 
