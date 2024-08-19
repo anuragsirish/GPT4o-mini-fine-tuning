@@ -1,6 +1,5 @@
 
-# Real Estate Use Case: Fine-Tuning a Machine Learning Model
-
+# Real Estate Use Case: Fine-Tuning a GPT-4o mini
 ![Fine-Tuning in Action](./images/house.png)
 
 ## Overview
