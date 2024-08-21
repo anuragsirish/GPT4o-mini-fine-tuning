@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository contains a Jupyter Notebook that demonstrates the process of fine-tuning GPT-4o mini for a real estate use case. The model is designed to assist real estate agents in efficiently searching for property information, providing concise and relevant responses to their queries.
+This project repo demonstrates the process of fine-tuning GPT-4o mini for a real estate use case. The model is designed to assist real estate agents in efficiently searching for property information, providing concise and relevant responses to their queries.
 
 Reference: [Fine Tuning model.ipynb](https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Fine%20Tuning/Fine%20Tuning%20model.ipynb)
 
