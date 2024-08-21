@@ -30,7 +30,7 @@ Fine-tuning small language models (SLMs) can be crucial for building industry-sp
    - Regulatory Adherence: The model can be fine-tuned to adhere to specific legal and regulatory requirements of the industry, reducing the risk of non-compliance.
 
 - #### Scalability and Flexibility:
-   - Gradual Expansion: Fine-tuning allows businesses to start with a focused, small-scale application and scale up as needed, adding more features or transitioning to larger models if required.
+   - Gradual Expansion: Fine-tuning SLMs allows businesses to start with a focused, small-scale application and scale up as needed, adding more features or transitioning to larger models if required.
 
 Fine-tuning SLMs enables the creation of highly specialized, efficient, and effective industry-specific models, leading to better performance, cost savings, and a superior user experience.
 
