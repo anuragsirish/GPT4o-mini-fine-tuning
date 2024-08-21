@@ -9,7 +9,7 @@ This repository contains a Jupyter Notebook that demonstrates the process of fin
 
 Reference: [Fine Tuning model.ipynb](https://github.com/retkowsky/Azure-OpenAI-demos/blob/main/Fine%20Tuning/Fine%20Tuning%20model.ipynb)
 
-### Importance of Fine-Tuning Small Language Models (SLMs) for Industry-Specific Use CasesBenefits of fine-tuning SLMs
+### Importance of Fine-Tuning Small Language Models (SLMs) for Industry-Specific Use Cases
 
 Fine-tuning small language models (SLMs) can be crucial for building industry-specific models due to several key reasons:
 
