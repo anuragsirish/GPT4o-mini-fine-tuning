@@ -99,8 +99,8 @@ The Jupyter Notebook guides you through the following steps:
 
 - Loading and preparing your data.
 - Fine-tuning the model using the real estate dataset.
-- Evaluating the model's performance.
-- Deploying the model for real-world applications.
+- Deploying the fine-tuned model on Azure AI
+- Testing the models
 
 ### License
 
