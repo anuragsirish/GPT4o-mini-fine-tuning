@@ -38,7 +38,7 @@ Fine-tuning SLMs enables the creation of highly specialized, efficient, and effe
 
 Fine-tuning GPT-40 mini for a real estate use case, such as searching properties with a chatbot, can provide several benefits:
 
-1.#### Customization for Domain-Specific Language
+1. #### Customization for Domain-Specific Language
     - Real Estate Terminology: Fine-tuning allows the model to better understand and use the specific terminology, phrases, and jargon common in real estate, such as "cap rate," "escrow," "comparables," or "closing costs."
     - Contextual Understanding: The model can be trained to better grasp the context and nuances specific to real estate conversations, ensuring it provides more accurate and relevant responses.
 
