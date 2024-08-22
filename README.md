@@ -77,6 +77,14 @@ Fine-tuning GPT-40 mini for a real estate use case, such as searching properties
 
 By fine-tuning GPT-40 mini for your specific real estate use case, you can create a more tailored, efficient, and user-friendly chatbot experience that not only meets but exceeds the expectations of your customers.
 
+
+## Before Fine-Tuning
+
+![Fine-Tuning in Action](./images/image.png)
+
+## After Fine-Tuning
+![Fine-Tuning in Action](./images/image2.png)
+
 ### Repository Contents
 
 - **notebooks/**
