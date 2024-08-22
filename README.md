@@ -80,10 +80,10 @@ By fine-tuning GPT-40 mini for your specific real estate use case, you can creat
 ### Repository Contents
 
 - **notebooks/**
-   - `real_estate_fine_tuning.ipynb`: The Jupyter Notebook demonstrating the fine-tuning process.
+   - `fine_tuning.ipynb`: The Jupyter Notebook demonstrating the fine-tuning process.
 - **data/**
-   - `real_estate_training.jsonl`: Training data in JSONL format.
-   - `real_estate_validation.jsonl`: Validation data in JSONL format.
+   - `training_data.jsonl`: Training data in JSONL format.
+   - `validation_data.jsonl`: Validation data in JSONL format.
 - **images/**
    - `A_detailed_illustration_of_a_data_scientist_workin.png`: Visualization of the fine-tuning process.
 
