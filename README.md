@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project repo demonstrates the process of fine-tuning GPT-4o mini for a real estate use case. The model is designed to assist real estate agents in efficiently searching for property information, providing concise and relevant responses to their queries.
+This project repo demonstrates the process of fine-tuning GPT-4o mini for a real estate use case. The fine- model is designed to assist real estate agents in efficiently searching for property information, providing concise and relevant responses to their queries. Majority of the use cases may not need fine-tuning and can be achieved through prompt engineering. I recommend starting with prompt engineering before fine-tuning the models which is an easier and less expensive process. 
 
 
 ### Importance of Fine-Tuning Small Language Models (SLMs) for Industry-Specific Use Cases
