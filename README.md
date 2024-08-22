@@ -56,6 +56,8 @@ Fine-tuning GPT-40 mini for a real estate use case, such as searching properties
 5. #### Enhanced Lead Qualification
     - Prioritizing Leads: The chatbot can be fine-tuned to identify and prioritize high-quality leads based on their interactions and queries, helping sales teams focus on the most promising prospects.
     - Guiding Through the Sales Funnel: Fine-tuning allows the chatbot to better guide users through the sales funnel, from initial inquiry to scheduling a viewing or connecting with an agent.
+    - Fine-tuning allows the chatbot to understand and predict the typical steps a user takes in their journey from inquiry to purchase. It can tailor responses based on where the user is in the sales funnel—whether they’re just browsing, comparing options, or ready to make a decision.
+    - For example, if a user asks about mortgage rates after inquiring about a property, the chatbot can recognize this as a sign of deeper interest and offer to connect the user with a financial advisor or schedule a viewing.
 
 6. #### Consistency and Accuracy
     - Ensuring Regulatory Compliance: Fine-tuning can help the model consistently adhere to legal and regulatory requirements in real estate, such as fair housing laws, by incorporating specific rules and guidelines into its responses.
