@@ -77,7 +77,7 @@ By fine-tuning GPT-40 mini for your specific real estate use case, you can creat
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/real-estate-fine-tuning.git
+    git clone https://github.com/anuragsirish/GPT4o-mini-fine-tuning.git
     ```
 2. **Navigate to the directory:**
     ```bash
