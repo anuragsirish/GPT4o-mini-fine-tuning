@@ -67,13 +67,13 @@ Fine-tuning GPT-40 mini for a real estate use case, such as searching properties
    #### Scenario: Fair Housing Laws
    Imagine you are building a chatbot for a real estate platform. It is crucial that the chatbot complies with fair housing laws, which prohibit discriminatory practices based on race, color, religion, sex, familial status, national origin, or disability.
 
-   How Fine-Tuning Helps:
+   #### How Fine-Tuning Helps:
 
    Incorporating Specific Rules: During the fine-tuning process, you can train the model on data that includes legally compliant language and excludes any discriminatory phrasing. For instance, instead of suggesting properties based on “preferred neighborhoods” (which    could imply discrimination), the model is trained to focus on objective criteria like price range, square footage, and proximity to amenities.
    Example:
 
-   Before Fine-Tuning: A generic model might respond to a user query like, “Find me a property in a good neighborhood” with suggestions that inadvertently imply bias, such as "This area is known for being predominantly [demographic]."
-   After Fine-Tuning: The fine-tuned model responds by focusing on neutral, compliant criteria: “Here are properties within your budget that are close to top-rated schools and have low crime rates.”
+   ##### Before Fine-Tuning: A generic model might respond to a user query like, “Find me a property in a good neighborhood” with suggestions that inadvertently imply bias, such as "This area is known for being predominantly [demographic]."
+   ##### After Fine-Tuning: The fine-tuned model responds by focusing on neutral, compliant criteria: “Here are properties within your budget that are close to top-rated schools and have low crime rates.”
 
 By fine-tuning GPT-40 mini for your specific real estate use case, you can create a more tailored, efficient, and user-friendly chatbot experience that not only meets but exceeds the expectations of your customers.
 
