@@ -105,13 +105,10 @@ By fine-tuning GPT-40 mini for your specific real estate use case, you can creat
     ```bash
     cd real-estate-fine-tuning
     ```
-3. **Install the required dependencies:**
-    ```bash
-    pip install -r requirements.txt
     ```
-4. **Open the Jupyter Notebook:**
+3. **Open the Jupyter Notebook:**
     ```bash
-    jupyter notebook notebooks/real_estate_fine_tuning.ipynb
+    jupyter notebook notebooks/fine_tuning.ipynb
     ```
 
 ### Fine-Tuning Process
