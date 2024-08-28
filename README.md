@@ -120,6 +120,23 @@ The Jupyter Notebook guides you through the following steps:
 - Deploying the fine-tuned model on Azure AI
 - Testing the models
 
+### Evaluation Metrics on AI Studio 
+
+
+![Fine-Tuning in Action](./images/fine-tuning metrics on ai studio.png)
+
+
+### How pricing works in fine-tuning on Azure AI? 
+
+It is based on the tokens billed. 
+
+Count the number of tokens in your file, multiply that by the per token price, and the number of epochs and you’ve got a decent estimate for the overall costs.
+
+Note: the raw token count for your file may be higher than the actual token counts you’ll be charged for, so this is an estimate, not the actual value you will be billed
+
+https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/pricing-update-token-based-billing-for-fine-tuning-training/ba-p/4164465
+
+
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -130,4 +147,4 @@ Contributions are welcome! Please submit a pull request or open an issue to disc
 
 ### Contact
 
-For any questions or suggestions, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, feel free to reach out to me at [anurag.karuparti@gmail.com]
