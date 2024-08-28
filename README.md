@@ -125,6 +125,8 @@ The Jupyter Notebook guides you through the following steps:
 
 ![Fine-Tuning in Action](./images/fine-tuning-metrics_ai_studio.png)
 
+Learn more about these metrics here - ![Fine-Tuning in Action](./Evaluation.md)
+
 
 ### How pricing works in fine-tuning on Azure AI? 
 
