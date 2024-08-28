@@ -123,7 +123,7 @@ The Jupyter Notebook guides you through the following steps:
 ### Evaluation Metrics on AI Studio 
 
 
-![Fine-Tuning in Action](./images/fine-tuning metrics on ai studio.png)
+![Fine-Tuning in Action](./images/fine-tuning-metrics_ai_studio.png)
 
 
 ### How pricing works in fine-tuning on Azure AI? 
