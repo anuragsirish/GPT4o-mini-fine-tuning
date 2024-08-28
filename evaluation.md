@@ -1,3 +1,8 @@
+## Fine Tuning Metrics
+
+![Fine-Tuning in Action](./images/fine-tuning-metrics_ai_studio.png)
+
+
 The image shows metrics from a fine-tuning process for a machine learning model, specifically focusing on two aspects: **Loss** and **Token Accuracy** over several training steps.
 ### 1. Loss Plot:
 
