@@ -125,6 +125,9 @@ The Jupyter Notebook guides you through the following steps:
 
 ![Fine-Tuning in Action](./images/fine-tuning-metrics_ai_studio.png)
 
+#### Interpretation
+The graphs suggest that the model is learning and improving its performance over time. However, the fluctuations in validation metrics (both loss and accuracy) indicate there could be room for further tuning, possibly by adjusting hyperparameters like batch size, learning rate, number of epochs to mitigate overfitting. Consistently monitoring these metrics is crucial for ensuring the model's robustness and generalization to new data.
+
 Learn more about these metrics here - ![Fine-Tuning in Action](./Evaluation.md)
 
 
